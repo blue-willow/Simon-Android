@@ -24,7 +24,11 @@ gradle/
 .gradle
 .gradle/
 build/
-*gradel*
+gradlew
+gradlew.bat
+settings.gradle
+gradle.properties
+build.gradle
 
 # Signing files
 .signing/
